@@ -6,4 +6,4 @@ I managed a few websites for small businesses and non-profits but only started p
 
 I became passionate about decentralized web technologies and spent two years working in the "crypto" or "blockchain" space as a software developer, developer relations manager, and protocol researcher.
 
-I'm currently researching use cases for decentralized blockchain protocols that are focused on making a positive social and/or environmental impact.
+I'm currently researching use cases for decentralized blockchain protocols that are focused on having a positive social and/or environmental impact.

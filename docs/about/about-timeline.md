@@ -2,7 +2,7 @@
 
 ![ryan christoffersen](/img/profile_3.jpg)
 
-researching cooperative governance models and new use cases for blockchain protocols, learning about ecosystems and small-scale farming
+researching cooperative governance models and new use cases for blockchain protocols, learning about ecology and small-scale farming
 
 software developer, developer relations, and protocol researcher for small teams specializing in tools and infrastructure for the blockchain ecosystem
 
